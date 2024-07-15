@@ -1,0 +1,13 @@
+{
+    "name": "telegram-mini-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "telegraf": "^4.4.1",
+      "express": "^4.17.1"
+    }
+  }
+  
